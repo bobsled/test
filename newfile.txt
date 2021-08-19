@@ -1,4 +1,6 @@
 fsdfsdfsd
 aaaa
 Added some red	
+Blue line
+// merged it man
 and more
