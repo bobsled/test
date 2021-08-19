@@ -1,5 +1,12 @@
 I like it when I am happy
 I do to doo
-fsdfsdfsd
+<<<<<<< .merge_file_a10392
 aaaaaa
+aaaaaaaa
 sgsgsgsgs
+aaaaaaaaaaaaaaaaaa
+=======
+Things that make me happy
+
+sgsgsgsgs
+>>>>>>> .merge_file_a02756
